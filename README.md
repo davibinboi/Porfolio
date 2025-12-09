@@ -1,4 +1,4 @@
-Shrikar Seshadri's Porfolio Website
+Shrikar Seshadri's Portfolio Website
 
 
 
